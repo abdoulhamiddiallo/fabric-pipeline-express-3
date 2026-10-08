@@ -8,11 +8,13 @@ Un pipeline Microsoft Fabric Data Factory qui se souvient de ce qu'il a déjà c
 
 ## 📸 Aperçu
 
-Le pipeline tel qu'il apparaît dans Fabric, puis la vérification dans le point de terminaison SQL du lakehouse après la troisième exécution.
+Le pipeline tel qu'il apparaît dans Fabric, la vérification dans le point de terminaison SQL du lakehouse après la troisième exécution, puis l'espace de travail avec ses quatre objets : le lakehouse, son point de terminaison SQL, l'entrepôt et le pipeline.
 
-![Le pipeline PL_ColdChain_Express dans Fabric](docs/images/pipeline_canvas.svg)
+![Le pipeline PL_ColdChain_Express dans Fabric](docs/images/PPL1.png)
 
-![Le résultat de la requête de vérification](docs/images/sql_results.svg)
+![Le résultat de la requête de vérification](docs/images/PPL2.png)
+
+![L'espace de travail Fabric](docs/images/PPL3.png)
 
 ## 🎯 Résultats clés
 
