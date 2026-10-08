@@ -2,7 +2,7 @@
 
 Un pipeline Microsoft Fabric Data Factory qui se souvient de ce qu'il a déjà chargé. Il lit son filigrane dans un entrepôt, liste le dossier d'arrivée, ne garde que les fichiers nouveaux, les charge un par un, puis note le dernier fichier traité. Relancé dix fois sans nouveau fichier, il ne recharge rien et vous l'écrit. Dix activités, neuf types d'activité, aucune ligne de code, aucune date en paramètre.
 
-**Guide PDF de 7 pages inclus** : [`Pipeline_Fabric_Guide.pdf`](Pipeline_Fabric_Guide.pdf). Chaque activité, chaque champ, chaque expression, et les chiffres à retrouver à l'unité près.
+**Guide PDF de 7 pages inclus** : [`Pipeline_Fabric_Guide_3_public.pdf`](Pipeline_Fabric_Guide_3_public.pdf). Chaque activité, chaque champ, chaque expression, et les chiffres à retrouver à l'unité près.
 
 ![Le pipeline PL_ColdChain_Express](docs/images/pipeline_diagram.svg)
 
@@ -127,7 +127,7 @@ CREATE TABLE dbo.watermark (
 INSERT INTO dbo.watermark VALUES ('PL_ColdChain_Express', '', GETDATE());
 ```
 
-3. Construire `PL_ColdChain_Express` en suivant `Pipeline_Fabric_Guide.pdf`.
+3. Construire `PL_ColdChain_Express` en suivant `Pipeline_Fabric_Guide_3_public.pdf`.
 4. Exécuter deux fois, déposer les fichiers du 7 et du 8 octobre, exécuter deux fois encore, et retrouver les chiffres du tableau ci-dessus.
 5. Vérifier dans le point de terminaison SQL :
 
