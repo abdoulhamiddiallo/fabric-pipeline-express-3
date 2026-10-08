@@ -1,0 +1,77 @@
+<svg viewBox="0 0 1092 262" width="100%" xmlns="http://www.w3.org/2000/svg" font-family="Inter, sans-serif">
+<defs><marker id="ag" markerWidth="7" markerHeight="7" refX="6" refY="3.5" orient="auto"><path d="M0,0 L7,3.5 L0,7 z" fill="#0F7B0F"/></marker><marker id="ar" markerWidth="7" markerHeight="7" refX="6" refY="3.5" orient="auto"><path d="M0,0 L7,3.5 L0,7 z" fill="#C50F1F"/></marker><marker id="an" markerWidth="7" markerHeight="7" refX="6" refY="3.5" orient="auto"><path d="M0,0 L7,3.5 L0,7 z" fill="#605E5C"/></marker></defs>
+<g opacity="1"><rect x="434" y="24" width="280" height="196" rx="12" fill="#F7FAFD" stroke="#0B2A4A" stroke-width="1.2" stroke-dasharray="6 4"/><rect x="446" y="15" width="256" height="18" rx="9" fill="#0B2A4A"/><text x="574" y="28" text-anchor="middle" font-size="9.5" font-weight="700" fill="#fff">ForEach · For each new file · séquentiel</text></g>
+<g opacity="1"><path d="M120,123 L148,123" fill="none" stroke="#605E5C" stroke-width="1.6" marker-end="url(#an)"/><path d="M262,123 L290,123" fill="none" stroke="#605E5C" stroke-width="1.6" marker-end="url(#an)"/><path d="M404,123 L448,123" fill="none" stroke="#605E5C" stroke-width="1.6" marker-end="url(#an)"/><path d="M558,123 L584,123" fill="none" stroke="#605E5C" stroke-width="1.6" marker-end="url(#an)"/><path d="M714,123 L744,123" fill="none" stroke="#605E5C" stroke-width="1.6" marker-end="url(#an)"/><path d="M864,108 L922,40" fill="none" stroke="#0F7B0F" stroke-width="1.6" marker-end="url(#ag)"/><text x="868" y="92" font-size="8.5" font-weight="700" fill="#0F7B0F">True</text><path d="M864,118 L922,118" fill="none" stroke="#0F7B0F" stroke-width="1.6" marker-end="url(#ag)"/><path d="M864,138 L922,216" fill="none" stroke="#C50F1F" stroke-width="1.6" marker-end="url(#ar)"/><text x="868" y="162" font-size="8.5" font-weight="700" fill="#C50F1F">False</text></g>
+<g opacity="1">
+<rect x="9.5" y="98.5" width="112" height="54" rx="8" fill="#000" opacity="0.07"/>
+<rect x="8" y="96" width="112" height="54" rx="8" fill="#EFE6F7" stroke="#5C2D91" stroke-width="1.3"/>
+<rect x="8" y="96" width="4" height="54" rx="2" fill="#5C2D91"/>
+<path transform="translate(18,114.0) scale(0.95)" d="M9 3a6 6 0 1 1-4.2 10.3L1.5 16.6 0 15.1l3.3-3.3A6 6 0 0 1 9 3zm0 2a4 4 0 1 0 0 8 4 4 0 0 0 0-8z" fill="none" stroke="#5C2D91" stroke-width="1.6" stroke-linejoin="round" stroke-linecap="round"/>
+<text x="40" y="116" font-size="10.5" font-weight="700" fill="#0B2A4A">Lookup</text>
+<text x="40" y="133" font-size="10" fill="#605E5C">Get watermark</text>
+</g>
+<g opacity="1">
+<rect x="151.5" y="98.5" width="112" height="54" rx="8" fill="#000" opacity="0.07"/>
+<rect x="150" y="96" width="112" height="54" rx="8" fill="#EAF3FC" stroke="#0F6CBD" stroke-width="1.3"/>
+<rect x="150" y="96" width="4" height="54" rx="2" fill="#0F6CBD"/>
+<path transform="translate(160,114.0) scale(0.95)" d="M2 3h14v12H2zM2 7h14M6 7v8M2 3l3-2h8l3 2" fill="none" stroke="#0F6CBD" stroke-width="1.6" stroke-linejoin="round" stroke-linecap="round"/>
+<text x="182" y="116" font-size="10.5" font-weight="700" fill="#0B2A4A">Get Metadata</text>
+<text x="182" y="133" font-size="10" fill="#605E5C">List landing</text>
+</g>
+<g opacity="1">
+<rect x="293.5" y="98.5" width="112" height="54" rx="8" fill="#000" opacity="0.07"/>
+<rect x="292" y="96" width="112" height="54" rx="8" fill="#FFF4CE" stroke="#9C6B00" stroke-width="1.3"/>
+<rect x="292" y="96" width="4" height="54" rx="2" fill="#9C6B00"/>
+<path transform="translate(302,114.0) scale(0.95)" d="M1 2h16l-6 7v6l-4 2V9z" fill="none" stroke="#9C6B00" stroke-width="1.6" stroke-linejoin="round" stroke-linecap="round"/>
+<text x="324" y="116" font-size="10.5" font-weight="700" fill="#0B2A4A">Filter</text>
+<text x="324" y="133" font-size="10" fill="#605E5C">Keep new files</text>
+</g>
+<g opacity="1">
+<rect x="451.5" y="98.5" width="108" height="54" rx="8" fill="#000" opacity="0.07"/>
+<rect x="450" y="96" width="108" height="54" rx="8" fill="#EAF3FC" stroke="#0F6CBD" stroke-width="1.3"/>
+<rect x="450" y="96" width="4" height="54" rx="2" fill="#0F6CBD"/>
+<path transform="translate(460,114.0) scale(0.95)" d="M4 2h8l4 4v10H4V2zm7 1v4h4M6 9h8M6 12h8" fill="none" stroke="#0F6CBD" stroke-width="1.6" stroke-linejoin="round" stroke-linecap="round"/>
+<text x="482" y="116" font-size="10.5" font-weight="700" fill="#0B2A4A">Copy data</text>
+<text x="482" y="133" font-size="10" fill="#605E5C">Load file</text>
+</g>
+<g opacity="1">
+<rect x="587.5" y="98.5" width="112" height="54" rx="8" fill="#000" opacity="0.07"/>
+<rect x="586" y="96" width="112" height="54" rx="8" fill="#E3F4E3" stroke="#0F7B0F" stroke-width="1.3"/>
+<rect x="586" y="96" width="4" height="54" rx="2" fill="#0F7B0F"/>
+<path transform="translate(596,114.0) scale(0.95)" d="M3 4h12v10H3zM6 7l2 2-2 2M9 11h3" fill="none" stroke="#0F7B0F" stroke-width="1.6" stroke-linejoin="round" stroke-linecap="round"/>
+<text x="618" y="116" font-size="10.5" font-weight="700" fill="#0B2A4A">Set variable</text>
+<text x="618" y="133" font-size="10" fill="#605E5C">Remember file</text>
+</g>
+<g opacity="1">
+<rect x="747.5" y="98.5" width="118" height="54" rx="8" fill="#000" opacity="0.07"/>
+<rect x="746" y="96" width="118" height="54" rx="8" fill="#FFF4CE" stroke="#9C6B00" stroke-width="1.3"/>
+<rect x="746" y="96" width="4" height="54" rx="2" fill="#9C6B00"/>
+<path transform="translate(756,114.0) scale(0.95)" d="M9 1v6M9 7l-5 5M9 7l5 5M2 14h4v3H2zM12 14h4v3h-4z" fill="none" stroke="#9C6B00" stroke-width="1.6" stroke-linejoin="round" stroke-linecap="round"/>
+<text x="778" y="116" font-size="10.5" font-weight="700" fill="#0B2A4A">If Condition</text>
+<text x="778" y="133" font-size="10" fill="#605E5C">Any file loaded</text>
+</g>
+<g opacity="1">
+<rect x="925.5" y="16.5" width="124" height="46" rx="8" fill="#000" opacity="0.07"/>
+<rect x="924" y="14" width="124" height="46" rx="8" fill="#EFE6F7" stroke="#5C2D91" stroke-width="1.3"/>
+<rect x="924" y="14" width="4" height="46" rx="2" fill="#5C2D91"/>
+<path transform="translate(932,28.0) scale(0.95)" d="M4 1h10v16H4zM6 5h6M6 8h6M6 11h4M2 3l-1 1 1 1M16 3l1 1-1 1" fill="none" stroke="#5C2D91" stroke-width="1.6" stroke-linejoin="round" stroke-linecap="round"/>
+<text x="952" y="31" font-size="9.5" font-weight="700" fill="#0B2A4A">Script</text>
+<text x="952" y="46" font-size="8.6" fill="#605E5C">Save watermark</text>
+</g>
+<g opacity="1">
+<rect x="925.5" y="98.5" width="124" height="54" rx="8" fill="#000" opacity="0.07"/>
+<rect x="924" y="96" width="124" height="54" rx="8" fill="#E3F4E3" stroke="#0F7B0F" stroke-width="1.3"/>
+<rect x="924" y="96" width="4" height="54" rx="2" fill="#0F7B0F"/>
+<path transform="translate(934,114.0) scale(0.95)" d="M1 4h16v11H1V4zm1 1l7 5 7-5" fill="none" stroke="#0F7B0F" stroke-width="1.6" stroke-linejoin="round" stroke-linecap="round"/>
+<text x="956" y="116" font-size="10.5" font-weight="700" fill="#0B2A4A">Outlook</text>
+<text x="956" y="133" font-size="10" fill="#605E5C">Send report</text>
+</g>
+<g opacity="1">
+<rect x="925.5" y="198.5" width="124" height="46" rx="8" fill="#000" opacity="0.07"/>
+<rect x="924" y="196" width="124" height="46" rx="8" fill="#FDE7E9" stroke="#C50F1F" stroke-width="1.3"/>
+<rect x="924" y="196" width="4" height="46" rx="2" fill="#C50F1F"/>
+<path transform="translate(932,210.0) scale(0.95)" d="M1 4h16v11H1V4zm1 1l7 5 7-5" fill="none" stroke="#C50F1F" stroke-width="1.6" stroke-linejoin="round" stroke-linecap="round"/>
+<text x="952" y="213" font-size="9.5" font-weight="700" fill="#0B2A4A">Outlook</text>
+<text x="952" y="228" font-size="8.6" fill="#605E5C">Send nothing new</text>
+</g>
+</svg>
